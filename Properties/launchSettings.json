@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PostInstallKit (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PostInstallKit (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
